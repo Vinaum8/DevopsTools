@@ -13,3 +13,7 @@ choco install git
 choco install discord
 
 choco install 7zip
+
+choco install SublimeText4
+
+choco install kubernetes-helm
